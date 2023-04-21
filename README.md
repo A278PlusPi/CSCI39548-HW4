@@ -10,15 +10,15 @@ This is our first assignment that uses the React app. This app includes the fund
   <br/>
   
   [Kasaf Shah <i>(shahks-hub)</i>](https://github.com/shahks-hub/)<br/>
-  Was responsible for implementing the app into GitHub pages
+  Was responsible for deploying the app into GitHub pages
   <br/>
   
   [Rhoenz Fermin <i>(rhoenz-fe)</i>](https://github.com/rhoenz-fe)<br/>
   Was responsible for debits page
   <br/>
 
-### Live Link (coming soon)
-[Website link](https://johnnylaicode.github.io/bank-of-react-example-code-gh-pages/)
+### Live Link
+[Website link](https://shahks-hub.github.io/bank-of-react/)
 
 ## Other information
 ----------
